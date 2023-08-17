@@ -1,0 +1,16 @@
+includes:
+    - vendor/phpstan/phpstan/conf/bleedingEdge.neon
+
+parameters:
+    level: max
+
+    bootstrapFiles:
+        - config/bootstrap.php
+
+    editorUrl: 'phpstorm://open?file=%%file%%&line=%%line%%'
+
+    paths:
+        - packages
+
+    checkMissingIterableValueType: false
+    reportUnmatchedIgnoredErrors: true
