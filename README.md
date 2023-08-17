@@ -8,7 +8,7 @@
  -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
      Error                                                                                                                                                                                          
  -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-     Internal error: Internal error: No closure found on line 166 in {prjoject dir}/vendor/cmixin/business-day/src/Cmixin/BusinessDay/Holiday.php in file  
+     Internal error: Internal error: No closure found on line 166 in {project dir}/vendor/cmixin/business-day/src/Cmixin/BusinessDay/Holiday.php in file  
      {project dir}/packages/backend/src/Services/MyClass.php                                                                                              
      Run PHPStan with -v option and post the stack trace to:                                                                                                                                        
      https://github.com/phpstan/phpstan/issues/new?template=Bug_report.yaml                                                                                                                         
