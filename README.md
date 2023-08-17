@@ -1,3 +1,5 @@
+> This was resolved: https://github.com/phpstan/phpstan/issues/9776
+
 # How to reproduce
 1. Install all dependencies (`composer install`)
 2. Ensure the PHPStan extension installer is enabled
